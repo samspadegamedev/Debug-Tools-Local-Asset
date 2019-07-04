@@ -1,7 +1,7 @@
 /// @description Debug Script A
 
-#macro B print_b();
+#macro C print_c();
 
-show_debug_message("B " + string(current_time));
+show_debug_message("C " + string(current_time));
 
 
