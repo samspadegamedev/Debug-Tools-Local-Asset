@@ -12,4 +12,41 @@ or turn it into a local asset and add it that way.
 
 USE
 
-Can be used exactly the same way show_debug_messages are used. 
+No demo object is included because the point of this file is to be small and lightweight. If you want
+a demo project, create a room and an object, place the object in the room copy the following code into 
+that object's create event:
+
+
+var name, birth_year;
+name = "Jane Doe";
+birth_year = 1990;
+
+
+A
+print_start("HELLO WORLD");
+
+B
+print("My name is ", name, " and I am ", current_year - birth_year);
+print_object_and_instance_id();
+
+print_end();
+C
+
+game_end();
+
+
+Then look in the output window to view the results. You will likely have to scroll up.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
