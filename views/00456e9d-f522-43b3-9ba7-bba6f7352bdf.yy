@@ -15,7 +15,7 @@
         "b7f5c289-6bf0-4f35-96d1-3429615e71cd"
     ],
     "filterType": "GMScript",
-    "folderName": "Debug Utility",
+    "folderName": "Show Debug Message Utility",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

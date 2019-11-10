@@ -6,7 +6,7 @@ output window.
 
 HOW TO ADD TO YOUR PROJECT
 
-Simple add the debug utility folder to your project either using the my library tab marketplace,
+Simple add the Show Debug Message Utility folder to your project either using the my library tab marketplace,
 or turn it into a local asset and add it that way.
 
 
