@@ -1,4 +1,4 @@
-/// @description Debug Script A
+/// @description Debug Script C
 
 #macro C print_c();
 
