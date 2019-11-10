@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "a7637714-40b3-48d5-9314-32d7a4590744",
+            "Value": {
+                "id": "e8aa25eb-a4a8-4d22-9332-f921d2a0e3e3",
+                "resourcePath": "notes\\Debug Utility README.yy",
+                "resourceType": "GMNotes"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "70283a38-1cac-428d-ad02-f2f47a83d855",

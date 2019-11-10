@@ -1,4 +1,8 @@
-/// @description Debug Script A
+/// @function print_a()
+
+/// @description Prints A to the output window. The macro allows
+///				 the script to be called simply by typing A.
+
 
 #macro A print_a();
 

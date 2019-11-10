@@ -1,5 +1,9 @@
-/// @description Marks the start of a debug message
-/// @param description(s)... string
+/// @function print_start(...arg)
+
+/// @param {string} ....args
+
+/// @description A function that can be used make the start of 
+///				 a debug message in the output window more visible.
 
 
 var arg_string = "";
